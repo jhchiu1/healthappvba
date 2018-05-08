@@ -11,6 +11,8 @@ HealthApp.xlsm
 -	Client Manager (Main interface - Click “CLIENT MANAGER” button to open app)
 -	Userform - Client contact / joined information collected from “ADD CLIENT / CLIENT DATA” form. Input validation exists where all fields must be completed prior to form submittal. 
 
+![alt text]https://github.com/jhchiu1/healthappvba/blob/master/ClientData.png
+
 -	Userform (continued) - Once “ADD CLIENT / CLIENT DATA” form is submitted, a new form will load with the next consecutive Client ID available. Userform has “EXIT” button to prevent user from closing the app using “X” in upper right corner.
 
 -	ClientData spreadsheet - ClientIDFull field is concatenated using Client ID label, First Name, and Last Name fields.
